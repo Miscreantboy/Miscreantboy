@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Miscreantboy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Miscreantboy Aka Parth Sharma
+- 👀 I’m interested in App/Web Development
+- 🌱 I’m currently learning Basic Of Programming
+- 💞️ I’m looking to collaborate on App Development
+- 📫 How to reach me Email:-parthh.ssharmafacebook@gmail.com
 
 <!---
 Miscreantboy/Miscreantboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
